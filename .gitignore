@@ -163,3 +163,7 @@ cython_debug/
 
 lfw
 *.png
+*.joblib
+*.keras
+result.json
+result-old.json
